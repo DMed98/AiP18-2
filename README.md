@@ -1,5 +1,5 @@
-<h1> Proyecto de Inteligencia Artificial 2018-2
-<h3>Tema :
+<h1> Proyecto de Inteligencia Artificial 2018-2 </h1>
+<h3>Tema :</h3>
 
 realizado por: <br>  -Henry Iván Peña Contreras 2150606                                                                         
                -Diego Medina               
