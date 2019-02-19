@@ -9,8 +9,8 @@
 **Ingenieria de sistemas**</br>
 **2019**</br>
 <p align="center"><img src="http://garza.uis.edu.co/idayregreso/images/logoUIS.jpg" width="342" heigth="166"></p>
-# Introduccion
 
+# Introduccion
 Por medio de algortimos de clasificacion de imagenes se planea crear un traductor de señas el cual permita la comunicacion
 entre una persona que maneja esta lengua con otra que desconozca este lenguaje.
 
