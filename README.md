@@ -1,8 +1,8 @@
 #Traductor de Señas
 **Integrantes**
--William Palomino
--Henry Peña
--Diego Medina
+- William Palomino
+- Henry Peña
+- Diego Medina
 
 
 **Universidad Indsutrial De Santander**
